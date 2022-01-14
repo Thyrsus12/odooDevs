@@ -1,0 +1,145 @@
+[2022-01-12 12:29:48.985] [exthost] [info] Extension host with pid 3180 started
+[2022-01-12 12:29:49.476] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-01-12 12:29:49.666] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-01-12 12:29:49.681] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-01-12 12:29:50.479] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-01-12 12:29:50.536] [exthost] [info] Eager extensions activated
+[2022-01-12 12:29:50.560] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-12 12:29:50.781] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-01-12 12:46:49.633] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-01-12 12:46:50.656] [exthost] [info] Extension host with pid 3180 exiting with code 0
+[2022-01-12 12:46:53.131] [exthost] [info] Extension host with pid 4169 started
+[2022-01-12 12:46:53.131] [exthost] [info] Skipping acquiring lock for /opt/odoo/.config/Code/User/workspaceStorage/150bebbe3f6323901c40a9b860b91c7c.
+[2022-01-12 12:46:53.523] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-01-12 12:46:53.552] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-01-12 12:46:53.571] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-01-12 12:46:54.301] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-01-12 12:46:54.604] [exthost] [info] Eager extensions activated
+[2022-01-12 12:46:54.860] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-12 12:46:54.928] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-01-12 12:46:54.960] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/opt/odoo/odoo14/.github' is in submodule 'odoo14'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-12 12:46:54.960] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/opt/odoo/odoo14/.github' is in submodule 'odoo14'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-12 12:46:54.960] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/opt/odoo/odoo14/.github' is in submodule 'odoo14'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-12 12:46:54.960] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/opt/odoo/odoo14/.github' is in submodule 'odoo14'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-12 12:46:54.960] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/opt/odoo/odoo14/.github' is in submodule 'odoo14'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-12 12:46:54.960] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/opt/odoo/odoo14/.github' is in submodule 'odoo14'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-12 12:46:54.960] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/opt/odoo/odoo14/.github' is in submodule 'odoo14'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-12 12:46:54.960] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/opt/odoo/odoo14/.github' is in submodule 'odoo14'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-12 12:46:54.960] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/opt/odoo/odoo14/.github' is in submodule 'odoo14'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-12 12:46:54.960] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/opt/odoo/odoo14/.github' is in submodule 'odoo14'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-12 12:46:54.960] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/opt/odoo/odoo14/.github' is in submodule 'odoo14'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-12 12:46:54.960] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/opt/odoo/odoo14/.github' is in submodule 'odoo14'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-12 12:46:54.960] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/opt/odoo/odoo14/.github' is in submodule 'odoo14'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-12 12:46:54.960] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/opt/odoo/odoo14/.github' is in submodule 'odoo14'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-12 12:46:54.960] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/opt/odoo/odoo14/.github' is in submodule 'odoo14'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-12 12:46:54.960] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/opt/odoo/odoo14/.github' is in submodule 'odoo14'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-12 12:46:54.960] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/opt/odoo/odoo14/.github' is in submodule 'odoo14'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-12 12:46:54.960] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/opt/odoo/odoo14/.github' is in submodule 'odoo14'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-12 12:46:54.960] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/opt/odoo/odoo14/.github' is in submodule 'odoo14'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-12 12:46:55.562] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 3939
+[2022-01-12 12:46:58.883] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/opt/odoo/odoo14/.github' is in submodule 'odoo14'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-12 12:46:58.883] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/opt/odoo/odoo14/.github' is in submodule 'odoo14'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-12 12:46:58.883] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/opt/odoo/odoo14/.github' is in submodule 'odoo14'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-12 12:46:58.883] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/opt/odoo/odoo14/.github' is in submodule 'odoo14'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-12 12:46:58.883] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/opt/odoo/odoo14/.github' is in submodule 'odoo14'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-12 12:46:58.883] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/opt/odoo/odoo14/.github' is in submodule 'odoo14'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-12 12:46:58.883] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/opt/odoo/odoo14/.github' is in submodule 'odoo14'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-12 12:46:58.883] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/opt/odoo/odoo14/.github' is in submodule 'odoo14'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-12 12:46:58.883] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/opt/odoo/odoo14/.github' is in submodule 'odoo14'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-12 12:46:58.883] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/opt/odoo/odoo14/.github' is in submodule 'odoo14'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-12 12:46:58.883] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/opt/odoo/odoo14/.github' is in submodule 'odoo14'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-12 12:46:58.883] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/opt/odoo/odoo14/.github' is in submodule 'odoo14'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-12 12:46:58.883] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/opt/odoo/odoo14/.github' is in submodule 'odoo14'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-12 12:46:58.883] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/opt/odoo/odoo14/.github' is in submodule 'odoo14'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-12 12:46:58.883] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/opt/odoo/odoo14/.github' is in submodule 'odoo14'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-12 12:46:58.883] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/opt/odoo/odoo14/.github' is in submodule 'odoo14'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-12 12:46:58.883] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/opt/odoo/odoo14/.github' is in submodule 'odoo14'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-12 12:46:58.883] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/opt/odoo/odoo14/.github' is in submodule 'odoo14'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-12 12:46:58.883] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/opt/odoo/odoo14/.github' is in submodule 'odoo14'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-12 12:46:59.387] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/opt/odoo/odoo14/addons/account' is in submodule 'odoo14'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-12 12:46:59.387] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/opt/odoo/odoo14/addons/account' is in submodule 'odoo14'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-12 12:46:59.387] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/opt/odoo/odoo14/addons/account' is in submodule 'odoo14'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-12 12:46:59.387] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/opt/odoo/odoo14/addons/account' is in submodule 'odoo14'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-12 12:46:59.387] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/opt/odoo/odoo14/addons/account' is in submodule 'odoo14'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-12 12:46:59.387] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/opt/odoo/odoo14/addons/account' is in submodule 'odoo14'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-12 12:46:59.387] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/opt/odoo/odoo14/addons/account' is in submodule 'odoo14'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-12 12:46:59.387] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/opt/odoo/odoo14/addons/account' is in submodule 'odoo14'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-12 12:46:59.387] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/opt/odoo/odoo14/addons/account' is in submodule 'odoo14'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-12 12:46:59.387] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/opt/odoo/odoo14/addons/account' is in submodule 'odoo14'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-12 12:46:59.387] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/opt/odoo/odoo14/addons/account' is in submodule 'odoo14'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-12 12:46:59.387] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/opt/odoo/odoo14/addons/account' is in submodule 'odoo14'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-12 12:46:59.387] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/opt/odoo/odoo14/addons/account' is in submodule 'odoo14'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-12 12:46:59.387] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/opt/odoo/odoo14/addons/account' is in submodule 'odoo14'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-12 12:46:59.387] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/opt/odoo/odoo14/addons/account' is in submodule 'odoo14'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-12 12:46:59.387] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/opt/odoo/odoo14/addons/account' is in submodule 'odoo14'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-12 12:46:59.387] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/opt/odoo/odoo14/addons/account' is in submodule 'odoo14'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-12 12:46:59.387] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/opt/odoo/odoo14/addons/account' is in submodule 'odoo14'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-12 12:46:59.387] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/opt/odoo/odoo14/addons/account' is in submodule 'odoo14'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-12 12:46:59.387] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/opt/odoo/odoo14/addons/account' is in submodule 'odoo14'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-12 12:46:59.387] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/opt/odoo/odoo14/addons/account' is in submodule 'odoo14'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-12 12:46:59.387] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/opt/odoo/odoo14/addons/account' is in submodule 'odoo14'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-12 12:46:59.387] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/opt/odoo/odoo14/addons/account' is in submodule 'odoo14'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-12 12:46:59.387] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/opt/odoo/odoo14/addons/account' is in submodule 'odoo14'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-12 12:46:59.387] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/opt/odoo/odoo14/addons/account' is in submodule 'odoo14'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-12 12:46:59.387] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/opt/odoo/odoo14/addons/account' is in submodule 'odoo14'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-12 12:46:59.387] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/opt/odoo/odoo14/addons/account' is in submodule 'odoo14'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-12 12:46:59.387] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/opt/odoo/odoo14/addons/account' is in submodule 'odoo14'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-12 12:46:59.387] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/opt/odoo/odoo14/addons/account' is in submodule 'odoo14'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-12 12:46:59.387] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/opt/odoo/odoo14/addons/account' is in submodule 'odoo14'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-12 12:46:59.387] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/opt/odoo/odoo14/addons/account' is in submodule 'odoo14'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-12 12:46:59.387] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/opt/odoo/odoo14/addons/account' is in submodule 'odoo14'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-12 12:47:03.426] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/opt/odoo/odoo14/addons/base_import' is in submodule 'odoo14'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-12 12:47:03.426] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/opt/odoo/odoo14/addons/base_import' is in submodule 'odoo14'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-12 12:47:03.426] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/opt/odoo/odoo14/addons/base_import' is in submodule 'odoo14'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-12 12:47:03.426] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/opt/odoo/odoo14/addons/base_import' is in submodule 'odoo14'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-12 12:47:03.426] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/opt/odoo/odoo14/addons/base_import' is in submodule 'odoo14'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-12 12:47:03.426] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/opt/odoo/odoo14/addons/base_import' is in submodule 'odoo14'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-12 12:47:03.426] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/opt/odoo/odoo14/addons/base_import' is in submodule 'odoo14'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-12 12:47:03.426] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/opt/odoo/odoo14/addons/base_import' is in submodule 'odoo14'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-12 12:47:03.426] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/opt/odoo/odoo14/addons/base_import' is in submodule 'odoo14'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-12 12:47:03.426] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/opt/odoo/odoo14/addons/base_import' is in submodule 'odoo14'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-12 12:47:03.426] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/opt/odoo/odoo14/addons/base_import' is in submodule 'odoo14'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-12 12:47:03.426] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/opt/odoo/odoo14/addons/base_import' is in submodule 'odoo14'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-12 12:47:03.426] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/opt/odoo/odoo14/addons/base_import' is in submodule 'odoo14'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-12 12:47:03.427] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/opt/odoo/odoo14/addons/base_import' is in submodule 'odoo14'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-12 12:47:03.427] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/opt/odoo/odoo14/addons/base_import' is in submodule 'odoo14'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-12 12:47:03.427] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/opt/odoo/odoo14/addons/base_import' is in submodule 'odoo14'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-12 12:47:04.239] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/opt/odoo/odoo14/addons/crm_sms' is in submodule 'odoo14'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-12 12:47:04.239] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/opt/odoo/odoo14/addons/crm_sms' is in submodule 'odoo14'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-12 12:47:04.239] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/opt/odoo/odoo14/addons/crm_sms' is in submodule 'odoo14'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-12 12:47:04.239] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/opt/odoo/odoo14/addons/crm_sms' is in submodule 'odoo14'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-12 12:47:04.239] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/opt/odoo/odoo14/addons/crm_sms' is in submodule 'odoo14'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-12 12:47:04.239] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/opt/odoo/odoo14/addons/crm_sms' is in submodule 'odoo14'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-12 12:47:16.095] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-01-12 12:47:17.105] [exthost] [info] Extension host with pid 4169 exiting with code 0
+[2022-01-12 12:47:19.463] [exthost] [info] Extension host with pid 4262 started
+[2022-01-12 12:47:19.463] [exthost] [info] Skipping acquiring lock for /opt/odoo/.config/Code/User/workspaceStorage/8c7ded5be166717e119e2b3bf1ff6dc6.
+[2022-01-12 12:47:19.604] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-01-12 12:47:19.629] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-01-12 12:47:19.635] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-01-12 12:47:19.976] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-01-12 12:47:20.036] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-01-12 12:47:20.208] [exthost] [info] Eager extensions activated
+[2022-01-12 12:47:20.302] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-12 12:47:20.694] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 3981
+[2022-01-12 12:54:47.776] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 4000
+[2022-01-12 12:56:11.304] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 4000
+[2022-01-12 12:56:20.970] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 4002
+[2022-01-12 12:58:16.062] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 4002
+[2022-01-12 13:01:28.694] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 4002
+[2022-01-12 13:04:13.506] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage:xml'
+[2022-01-12 13:05:15.704] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 4004
+[2022-01-12 13:05:20.884] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 4004
+[2022-01-12 13:16:44.096] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 4008
+[2022-01-12 13:16:50.848] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 3997
+[2022-01-12 13:31:16.980] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 4219
+[2022-01-12 13:31:23.936] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 4204
+[2022-01-12 13:35:50.958] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 4208
+[2022-01-12 13:43:26.923] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 4213
+[2022-01-12 13:44:42.104] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 4226
+[2022-01-12 13:46:54.011] [exthost] [info] ExtensionService#_doActivateExtension vscode.simple-browser, startup: false, activationEvent: 'onOpenExternalUri:https'
+[2022-01-12 13:48:48.385] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 4267
+[2022-01-12 13:48:53.557] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 4267
+[2022-01-12 13:50:45.832] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 4279
+[2022-01-12 13:50:47.503] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-01-12 13:50:48.523] [exthost] [info] Extension host with pid 4262 exiting with code 0

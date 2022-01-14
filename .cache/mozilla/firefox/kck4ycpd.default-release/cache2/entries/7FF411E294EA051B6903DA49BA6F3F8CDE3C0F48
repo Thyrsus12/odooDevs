@@ -1,0 +1,527 @@
+
+    
+        <!DOCTYPE html>
+        
+        
+            
+        
+    <html lang="es-ES" data-website-id="1" data-editable="1" data-view-xmlid="website.page_404" data-viewid="1392" data-main-object="ir.ui.view(1392,)" data-oe-company-name="Focus Co">
+            
+        
+            
+                
+            
+            
+            
+            
+                
+            
+        
+        
+    <head>
+                <meta charset="utf-8"/>
+                <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+            <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no"/>
+        <meta name="generator" content="Odoo"/>
+        
+        <meta name="default_title" content=" Page Not Found | My Website "/>
+        
+            
+            
+            
+        <meta name="description"/>
+        <meta name="keywords"/>
+        
+            <meta name="default_description"/>
+            
+            
+                
+                    
+                        <meta property="og:type" content="website"/>
+                    
+                
+                    
+                        <meta property="og:title" content="Page Not Found | My Website"/>
+                    
+                
+                    
+                        <meta property="og:site_name" content="Focus Co"/>
+                    
+                
+                    
+                        <meta property="og:url" content="http://localhost:8069/%27https:/fonts.googleapis.com/css2?family=Kumbh+Sans:wght%40300%3B400%3B700&amp;display=swap%27"/>
+                    
+                
+                    
+                        <meta property="og:image" content="http://localhost:8069/web/image/website/1/logo?unique=7e9e230"/>
+                    
+                
+            
+            
+            
+                
+                    <meta name="twitter:card" content="summary_large_image"/>
+                
+                    <meta name="twitter:title" content="Page Not Found | My Website"/>
+                
+                    <meta name="twitter:image" content="http://localhost:8069/web/image/website/1/logo?unique=7e9e230"/>
+                
+            
+        
+
+        
+            
+            
+        
+        <link rel="canonical" href="http://localhost:8069/%27https%3A/fonts.googleapis.com/css2"/>
+
+        <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin=""/>
+    
+        
+
+                <title> Page Not Found | My Website </title>
+                <link type="image/x-icon" rel="shortcut icon" href="/web/image/website/1/favicon?unique=7e9e230"/>
+            <link rel="preload" href="/web/static/lib/fontawesome/fonts/fontawesome-webfont.woff2?v=4.7.0" as="font" crossorigin=""/>
+            <link type="text/css" rel="stylesheet" href="/web/content/419-566095a/1/web.assets_common.css" data-asset-xmlid="web.assets_common" data-asset-version="566095a"/>
+            <link type="text/css" rel="stylesheet" href="/web/content/457-a9d56af/1/web.assets_frontend.css" data-asset-xmlid="web.assets_frontend" data-asset-version="a9d56af"/>
+        <link type="text/css" rel="stylesheet" href="/web/content/439-27ef27d/1/website.assets_editor.css" data-asset-xmlid="website.assets_editor" data-asset-version="27ef27d"/>
+    
+        
+
+                <script id="web.layout.odooscript" type="text/javascript">
+                    var odoo = {
+                        csrf_token: "a4027c2d95e3ab25b56216b7312d6487dce2a994o1673527418",
+                        debug: "1",
+                    };
+                </script>
+            <script type="text/javascript">
+                odoo.session_info = {"is_admin": true, "is_system": true, "is_website_user": false, "user_id": 2, "is_frontend": true, "server_version": "14.0", "server_version_info": [14, 0, 0, "final", 0, ""], "translationURL": "/website/translations", "cache_hashes": {"translations": "c7df6d75814e155f32dde730451a6e6cb0eb414b"}, "website_id": 1, "website_company_id": 1};
+                if (!/(^|;\s)tz=/.test(document.cookie)) {
+                    const userTZ = Intl.DateTimeFormat().resolvedOptions().timeZone;
+                    document.cookie = `tz=${userTZ}; path=/`;
+                }
+            </script>
+            <script defer="defer" type="text/javascript" src="/web/content/265-548815e/1/web.assets_common_minimal_js.js" data-asset-xmlid="web.assets_common_minimal_js" data-asset-version="548815e"></script>
+            <script defer="defer" type="text/javascript" src="/web/content/266-61ecd2e/1/web.assets_frontend_minimal_js.js" data-asset-xmlid="web.assets_frontend_minimal_js" data-asset-version="61ecd2e"></script>
+            
+        
+    
+            <script defer="defer" type="text/javascript" data-src="/web/content/412-7d263a0/1/web.assets_common_lazy.js" data-asset-xmlid="web.assets_common_lazy" data-asset-version="7d263a0"></script>
+            <script defer="defer" type="text/javascript" data-src="/web/content/458-8e311ee/1/web.assets_frontend_lazy.js" data-asset-xmlid="web.assets_frontend_lazy" data-asset-version="8e311ee"></script>
+        <script defer="defer" type="text/javascript" data-src="/web/content/441-27ef27d/1/website.assets_editor.js" data-asset-xmlid="website.assets_editor" data-asset-version="27ef27d"></script>
+    
+        
+
+                
+            
+        
+    </head>
+            <body class=" o_connected_user">
+                
+        
+            
+                
+            
+                
+            
+                
+            
+                
+            
+        
+    
+            
+            <nav id="oe_main_menu_navbar" class="o_main_navbar">
+                <ul id="oe_applications" data-oe-model="ir.ui.view" data-oe-id="1406" data-oe-field="arch" data-oe-xpath="/data/xpath[2]/nav/ul[1]">
+                    <li class="dropdown active">
+                        <a class="dropdown-toggle full" data-toggle="dropdown" href="#" accesskey="h">
+                            <i class="fa fa-th-large"></i> SITIO WEB
+                        </a>
+                        <div class="dropdown-menu" role="menu">
+                            </div>
+                    </li>
+                </ul>
+
+                <button type="button" class="fa fa-bars float-right d-block d-md-none o_mobile_menu_toggle" aria-label="Menú" title="Menú" data-oe-model="ir.ui.view" data-oe-id="1406" data-oe-field="arch" data-oe-xpath="/data/xpath[2]/nav/button[1]"></button>
+
+                <ul class="o_menu_sections">
+                    <li class="dropdown" id="content-menu">
+                        <a id="content-menu-button" class="dropdown-toggle o-no-caret waves" data-toggle="dropdown" data-display="static" href="#" data-oe-model="ir.ui.view" data-oe-id="1406" data-oe-field="arch" data-oe-xpath="/data/xpath[2]/nav/ul[2]/li[1]/a[1]">Páginas</a>
+                        <div class="dropdown-menu" role="menu">
+                            <a role="menuitem" data-action="edit_menu" href="#" title="Editar menú superior" class="dropdown-item" data-oe-model="ir.ui.view" data-oe-id="1406" data-oe-field="arch" data-oe-xpath="/data/xpath[2]/nav/ul[2]/li[1]/div[1]/a[1]">Editar menú</a>
+                            <a role="menuitem" href="/website/pages" title="Administrar sus páginas del sitio web" class="dropdown-item" data-oe-model="ir.ui.view" data-oe-id="1406" data-oe-field="arch" data-oe-xpath="/data/xpath[2]/nav/ul[2]/li[1]/div[1]/a[2]">Administrar páginas</a>
+                            
+                            
+                        </div>
+                    </li>
+                    <li class="dropdown" id="customize-menu" data-oe-model="ir.ui.view" data-oe-id="1406" data-oe-field="arch" data-oe-xpath="/data/xpath[2]/nav/ul[2]/li[2]">
+                        <a class="dropdown-toggle o-no-caret waves" data-toggle="dropdown" data-display="static" href="#">Personalizar</a>
+                        <div class="dropdown-menu" role="menu">
+                            <a role="menuitem" href="#" data-action="ace" class="dropdown-item" id="html_editor">Editor de HTML/CSS/JS</a>
+                            <a role="menuitem" href="/web#action=website.action_website_add_features" class="dropdown-item" id="install_apps">Añadir características</a>
+                        </div>
+                    </li>
+                    <li class="dropdown" id="promote-menu" data-oe-model="ir.ui.view" data-oe-id="1406" data-oe-field="arch" data-oe-xpath="/data/xpath[2]/nav/ul[2]/li[3]">
+                        <a class="dropdown-toggle o-no-caret waves" data-toggle="dropdown" data-display="static" href="#">Promover</a>
+                        <div class="dropdown-menu oe_promote_menu" role="menu">
+                            <a role="menuitem" data-action="promote-current-page" href="#" title="Promover página en la web" class="dropdown-item">Optimizar SEO</a>
+                        </div>
+                    </li>
+                    
+        
+    
+                </ul>
+
+                <ul class="o_menu_systray d-none d-md-block">
+                    
+        
+    
+                    <li class="o_mobile_preview" id="mobile-menu" data-oe-model="ir.ui.view" data-oe-id="1406" data-oe-field="arch" data-oe-xpath="/data/xpath[2]/nav/ul[3]/li[1]">
+                        <a data-action="show-mobile-preview" href="#" accesskey="v"><span title="Previsualización móvil" role="img" aria-label="Previsualización móvil" class="fa fa-mobile"></span></a>
+                    </li>
+                    
+
+                    <li class="o_new_content_menu" id="new-content-menu">
+                        <a href="#" accesskey="c" data-oe-model="ir.ui.view" data-oe-id="1406" data-oe-field="arch" data-oe-xpath="/data/xpath[2]/nav/ul[3]/li[3]/a[1]"><span class="fa fa-plus mr-2"></span>Nuevo</a>
+                        <div id="o_new_content_menu_choices" class="o_hidden">
+                            <div class="container pt32 pb32">
+                                <div class="row">
+                                    <div class="col-md-4 mb8 o_new_content_element" data-oe-model="ir.ui.view" data-oe-id="1406" data-oe-field="arch" data-oe-xpath="/data/xpath[2]/nav/ul[3]/li[3]/div[1]/div[1]/div[1]/div[1]">
+                                        <a href="#" data-action="new_page" aria-label="Nueva pagina" title="Nueva pagina">
+                                            <i class="fa fa-file-o"></i>
+                                            <p>Página</p>
+                                        </a>
+                                    </div>
+                                    
+                                        
+                                        <div class="col-md-4 mb8 o_new_content_element" data-oe-model="ir.ui.view" data-oe-id="1406" data-oe-field="arch" data-oe-xpath="/data/xpath[2]/nav/ul[3]/li[3]/div[1]/div[1]/div[1]/t[1]/div[1]">
+                                            <a href="#" data-action="new_blog_post">
+                                                <i class="fa fa-rss"></i>
+                                                <p>Entrada del blog</p>
+                                            </a>
+                                        </div>
+                                        
+                                        <div class="col-md-4 mb8 o_new_content_element" data-oe-model="ir.ui.view" data-oe-id="1406" data-oe-field="arch" data-oe-xpath="/data/xpath[2]/nav/ul[3]/li[3]/div[1]/div[1]/div[1]/t[1]/div[2]">
+                                            <a href="#" data-action="new_event">
+                                                <i class="fa fa-ticket"></i>
+                                                <p>Evento</p>
+                                            </a>
+                                        </div>
+                                        
+                                        <div name="module_website_forum" class="col-md-4 mb8 o_new_content_element o_new_content_element_once" data-oe-model="ir.ui.view" data-oe-id="1406" data-oe-field="arch" data-oe-xpath="/data/xpath[2]/nav/ul[3]/li[3]/div[1]/div[1]/div[1]/t[1]/div[3]" data-module-id="256" data-module-shortdesc="Foro">
+                                            <a href="#" data-url="/forum" data-action="new_forum">
+                                                <i class="fa fa-comment"></i>
+                                                <p>Foro</p>
+                                            </a>
+                                        </div>
+                                        
+                                        <div name="module_website_hr_recruitment" class="col-md-4 mb8 o_new_content_element" data-oe-model="ir.ui.view" data-oe-id="1406" data-oe-field="arch" data-oe-xpath="/data/xpath[2]/nav/ul[3]/li[3]/div[1]/div[1]/div[1]/t[1]/div[4]" data-module-id="346" data-module-shortdesc="Treball en línia">
+                                            <a href="#">
+                                                <i class="fa fa-briefcase"></i>
+                                                <p>Job Offer</p>
+                                            </a>
+                                        </div>
+                                        
+                                        <div class="col-md-4 mb8 o_new_content_element" data-oe-model="ir.ui.view" data-oe-id="1406" data-oe-field="arch" data-oe-xpath="/data/xpath[2]/nav/ul[3]/li[3]/div[1]/div[1]/div[1]/t[1]/div[5]">
+                                            <a href="#" data-action="new_product">
+                                                <i class="fa fa-shopping-cart"></i>
+                                                <p>Producto</p>
+                                            </a>
+                                        </div>
+                                        
+                                        <div name="module_website_slides" class="col-md-4 mb8 o_new_content_element" data-oe-model="ir.ui.view" data-oe-id="1406" data-oe-field="arch" data-oe-xpath="/data/xpath[2]/nav/ul[3]/li[3]/div[1]/div[1]/div[1]/t[1]/div[6]" data-module-id="122" data-module-shortdesc="eLearning">
+                                            <a href="#" data-action="new_slide_channel">
+                                                <i class="fa module_icon" style="background-image: url('/website/static/src/img/apps_thumbs/website_slide.svg');                                                     background-repeat: no-repeat; background-position: center;"></i>
+                                                <p>Curso</p>
+                                            </a>
+                                        </div>
+                                        
+                                        
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    <li id="edit-page-menu" data-oe-model="ir.ui.view" data-oe-id="1406" data-oe-field="arch" data-oe-xpath="/data/xpath[2]/nav/ul[3]/li[4]">
+                        <a data-action="edit" href="#" accesskey="a"><span class="fa fa-pencil mr-2"></span>Editar</a>
+                    </li>
+        
+    
+            
+        
+                    
+                    
+                    
+                </ul>
+            </nav>
+        <div id="wrapwrap" class="   ">
+                <header id="top" data-anchor="true" data-name="Header" class="  o_header_standard">
+                    <header>
+      <section class="navigation">
+        <div class="nav-wrapper">
+          <nav class="navbar navbar-expand-lg navbar-dark scrolling-navbar" id="new">
+            <a class="navbar-brand">
+              
+    <a href="/" class="navbar-brand logo mr-auto">
+            <span data-oe-model="website" data-oe-id="1" data-oe-field="logo" data-oe-type="image" data-oe-expression="website.logo" role="img" data-oe-field-xpath="/data/xpath/a/span[1]" aria-label="Logo of My Website" title="My Website"><img src="/web/image/website/1/logo/My%20Website?unique=7e9e230" class="img img-fluid" alt="My Website" loading="lazy"/></span>
+        </a>
+    
+            </a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#basicExampleNav" aria-controls="basicExampleNav" aria-expanded="false" aria-label="Toggle navigation" data-oe-model="ir.ui.view" data-oe-id="1953" data-oe-field="arch" data-oe-xpath="/data/xpath/header/section[1]/div[1]/nav[1]/button[1]">
+              <span class=" fa fa-bars"></span>
+              <span></span>
+            </button>
+            <div class="collapse navbar-collapse" id="basicExampleNav">
+              <ul class="navbar-nav mr-auto">
+                
+                  <li class="nav-item active">
+    
+    <li class="nav-item">
+        <a role="menuitem" href="/" class="nav-link ">
+            <span data-oe-model="website.menu" data-oe-id="5" data-oe-field="name" data-oe-type="char" data-oe-expression="submenu.name">Inicio</span>
+        </a>
+    </li>
+    
+</li>
+                
+                  <li class="nav-item active">
+    
+    <li class="nav-item">
+        <a role="menuitem" href="/contactus" class="nav-link ">
+            <span data-oe-model="website.menu" data-oe-id="6" data-oe-field="name" data-oe-type="char" data-oe-expression="submenu.name">Contáctenos</span>
+        </a>
+    </li>
+    
+</li>
+                
+                  <li class="nav-item active">
+    
+    <li class="nav-item">
+        <a role="menuitem" href="/event" class="nav-link ">
+            <span data-oe-model="website.menu" data-oe-id="12" data-oe-field="name" data-oe-type="char" data-oe-expression="submenu.name">Eventos</span>
+        </a>
+    </li>
+    
+</li>
+                
+                  <li class="nav-item active">
+    
+    <li class="nav-item">
+        <a role="menuitem" href="/shop" class="nav-link ">
+            <span data-oe-model="website.menu" data-oe-id="14" data-oe-field="name" data-oe-type="char" data-oe-expression="submenu.name">Nuestros Productos</span>
+        </a>
+    </li>
+    
+</li>
+                
+              </ul>
+              <div class="nav navbar-nav navbar-expand">
+                
+            
+        
+                
+        
+        
+            
+        
+    <li class="nav-item dropdown ml-lg-3 o_no_autohide_item">
+            <a href="#" role="button" data-toggle="dropdown" class="dropdown-toggle nav-link font-weight-bold">
+                
+                
+                <span class="">Administrator</span>
+            </a>
+            <div role="menu" class="dropdown-menu js_usermenu ">
+                
+            <a href="/my/home" role="menuitem" class="dropdown-item" data-oe-id="508" data-oe-xpath="/data/xpath/a" data-oe-model="ir.ui.view" data-oe-field="arch">Mi cuenta</a>
+        <div id="o_logout_divider" class="dropdown-divider" data-oe-model="ir.ui.view" data-oe-id="491" data-oe-field="arch" data-oe-xpath="/t[1]/li[1]/div[1]/div[1]"></div>
+                <a role="menuitem" id="o_logout" class="dropdown-item" data-oe-model="ir.ui.view" data-oe-id="491" data-oe-field="arch" data-oe-xpath="/t[1]/li[1]/div[1]/a[1]" href="/web/session/logout?redirect=/">Cerrar sesión</a>
+            </div>
+        </li>
+    
+              </div>
+              <div class="quote" data-oe-model="ir.ui.view" data-oe-id="1953" data-oe-field="arch" data-oe-xpath="/data/xpath/header/section[1]/div[1]/nav[1]/div[1]/div[2]">
+                <a href="/contactus" class="btn btn-lg btn-secondary" data-original-title="" title="" aria-describedby="tooltip552922"> Contáctanos</a>
+              </div>
+            </div>
+          </nav>
+        </div>
+      </section>
+    </header>
+  </header>
+                
+<html lang="en" data-oe-id="1951" data-oe-xpath="/data/xpath/html" data-oe-model="ir.ui.view" data-oe-field="arch">
+<head>
+    <meta charset="UTF-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+        <title>Sanitize</title>
+        <link rel="stylesheet" href="/theme_splash/static/src/css/style.css"/>
+
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css" integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous"/>
+
+        <link href="'https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@300;400;700&amp;display=swap'" rel="stylesheet"/>
+        <link href="https://fonts.googleapis.com/css2?family=Kaushan+Script&amp;display=swap" rel="stylesheet"/>
+
+</head>
+</html>
+        <main>
+                    
+            
+        
+            <div id="wrap">
+                
+        <div class="container o_not_editable">
+            <div class="alert alert-info mt32">
+                <p data-oe-model="ir.ui.view" data-oe-id="1392" data-oe-field="arch" data-oe-xpath="/t[1]/t[1]/div[1]/div[1]/p[1]">Esta página no existe, pero puede crearla al ser administrador de este sitio.</p>
+                <a role="button" class="btn btn-primary js_disable_on_click post_link" data-oe-model="ir.ui.view" data-oe-id="1392" data-oe-field="arch" data-oe-xpath="/t[1]/t[1]/div[1]/div[1]/a[1]" href="/website/add/'https:/fonts.googleapis.com/css2">Crear página</a>
+            </div>
+            <div class="text-center text-muted" data-oe-model="ir.ui.view" data-oe-id="1392" data-oe-field="arch" data-oe-xpath="/t[1]/t[1]/div[1]/div[2]">Editar el contenido a continuación de esta línea para adaptar la página predeterminada de "Página no encontrada".</div>
+        </div>
+        <hr data-oe-model="ir.ui.view" data-oe-id="1392" data-oe-field="arch" data-oe-xpath="/t[1]/t[1]/hr[1]"/>
+    
+                <div class="oe_structure oe_empty" data-oe-model="ir.ui.view" data-oe-id="283" data-oe-field="arch" data-oe-xpath="/t[1]/t[1]/div[1]/div[1]">
+                    <section class="pt128 pb104">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-md-6 text-center text-md-right my-md-auto mb-5 mb-md-0">
+                                    <img class="img img-fluid" src="/http_routing/static/src/img/404.svg" loading="lazy"/>
+                                </div>
+                                <div class="col-md-6 text-center text-md-left my-auto">
+                                    <h1 class="sr-only">Error 404</h1>
+                                    <h2 class="mb16">No pudimos encontrar la página que buscas </h2>
+                                    <p><b>No te preocupes</b>Si piensas que es un error mándanos un mensaje. <a href="/contactus">esta página</a>.</p>
+                                </div>
+                                <div class="col-12 pt40 pb24">
+                                    <hr/>
+                                </div>
+                                <div class="col-12">
+                                    <p class="text-center pt24">Quizás te refieres a <b> ¿páginas populares? </b></p>
+                                    <ul class="list-inline text-center">
+                                        <li class="list-inline-item mb-2"><a href="/" class="btn btn-secondary">Inicio</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </div>
+            </div>
+        
+                </main>
+                <footer class="footer ">
+      <div class="container">
+        <div class="row">
+          <div class="col-12 col-lg-4 col-md-12 col-sm-12" data-oe-model="ir.ui.view" data-oe-id="1952" data-oe-field="arch" data-oe-xpath="/data/xpath/footer/div[1]/div[1]/div[1]">
+            <div class="footer_part">
+              <h4>Sobre nosotros<br/></h4>
+              <p class="fp"> Estamos dedicados a la satisfacción y seguridad de nuestros usuarios. Creemos en los estándares de diseño simples, creativos, modernos y flexibles. </p>
+              <a href="#" class="btn btn-quoteF" data-original-title="" title="" aria-describedby="tooltip943395">Obtén un presupuesto &gt; </a>
+            </div>
+          </div>
+          <div class="col-12 col-lg-4 col-md-6 col-sm-12">
+            <h4 class="" data-oe-model="ir.ui.view" data-oe-id="1952" data-oe-field="arch" data-oe-xpath="/data/xpath/footer/div[1]/div[1]/div[2]/h4[1]">Contactanos</h4>
+            <address class="fp">
+              <div data-oe-model="res.company" data-oe-id="1" data-oe-field="partner_id" data-oe-type="contact" data-oe-expression="res_company.partner_id" data-oe-many2one-id="1" data-oe-many2one-model="res.partner" data-oe-contact-options="{&quot;widget&quot;: &quot;contact&quot;, &quot;fields&quot;: [&quot;name&quot;, &quot;address&quot;, &quot;phone&quot;, &quot;mobile&quot;, &quot;email&quot;], &quot;tagName&quot;: &quot;div&quot;, &quot;expression&quot;: &quot;res_company.partner_id&quot;, &quot;type&quot;: &quot;contact&quot;, &quot;inherit_branding&quot;: true, &quot;translate&quot;: false}" data-oe-field-xpath="/data/xpath/footer/div[1]/div[1]/div[2]/address[1]/div[1]">
+    <address class="mb-0" itemscope="itemscope" itemtype="http://schema.org/Organization">
+        
+        
+            
+    <div>
+        
+            <span itemprop="name">Focus Co</span>
+        
+        
+        
+    </div>
+
+        
+        <div itemprop="address" itemscope="itemscope" itemtype="http://schema.org/PostalAddress">
+            <div class="d-flex align-items-baseline">
+                <i class="fa fa-map-marker fa-fw" role="img" aria-label="Dirección" title="Dirección"></i>
+                <span class="w-100 o_force_ltr d-block" itemprop="streetAddress">c/ Puerro, 22<br/>28000 MADRID<br/>España</span>
+            </div>
+            
+            <div><i class="fa fa-phone fa-fw" role="img" aria-label="Teléfono" title="Teléfono"></i> <span class="o_force_ltr" itemprop="telephone">+91 123456978</span></div>
+            
+            
+            
+            <div><i class="fa fa-envelope fa-fw" role="img" aria-label="Correo electrónico" title="Correo electrónico"></i> <span itemprop="email">godofbar@company.com</span></div>
+        </div>
+        
+        
+    </address>
+</div>
+            </address>
+            <div class="footer_icons" data-oe-model="ir.ui.view" data-oe-id="1952" data-oe-field="arch" data-oe-xpath="/data/xpath/footer/div[1]/div[1]/div[2]/div[1]">
+              <ul>
+                <a href="#">
+                  <li class="fab fa-facebook-f fb" aria-hidden="true"></li>
+                </a>
+                <a href="#">
+                  <li class="fab fa-twitter tw" aria-hidden="true"></li>
+                </a>
+                <a href="#">
+                  <li class="fab fa-google-plus-g gg" aria-hidden="true"></li>
+                </a>
+                <a href="#">
+                  <li class="fab fa-dribbble dr" aria-hidden="true"></li>
+                </a>
+              </ul>
+            </div>
+          </div>
+          <div class="col-12 col-lg-4 col-md-6 col-sm-12" data-oe-model="ir.ui.view" data-oe-id="1952" data-oe-field="arch" data-oe-xpath="/data/xpath/footer/div[1]/div[1]/div[3]">
+            <h4>Suscríbite a novedades<br/></h4>
+            <p class="fp"> Introduce tu email y recibe las ultimas noticias, actualizaciones y ofertas especiales. </p>
+            <div class="ping">
+              <form class="form-inline">
+                <div class="md-form my-0">
+                  <input class="form-control mr-sm-2" type="text" placeholder="Email" aria-label="Email"/>
+                </div>
+              </form>
+              <a class="btn btn-sub" data-original-title="" title="" aria-describedby="tooltip912486">Suscribir</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="footer_bottom  text-center" data-oe-model="ir.ui.view" data-oe-id="1952" data-oe-field="arch" data-oe-xpath="/data/xpath/footer/div[2]">
+                    © 2021 Splash. All rights reserved | Design by
+                    <a href="#">Cybrosys.</a>
+                </div>
+    </footer>
+  
+    
+            </div>
+                
+                    <script>
+                        
+            
+                window.addEventListener('load', function () {
+                    
+
+                    odoo.define('im_livechat.livesupport', function (require) {
+            
+                    });
+                });
+            
+        
+                    </script>
+                
+            
+        
+    
+        
+        
+    </body>
+        </html>
+    
+    
+.����y           a���C֪       �    O^partitionKey=%28http%2Clocalhost%2C8069%29,:http://localhost:8069/'https:/fonts.googleapis.com/css2?family=Kumbh+Sans:wght@300;400;700&display=swap%27 strongly-framed 1 request-method GET response-head HTTP/1.0 404 
+Cache-Control: no-cache
+Content-Type: text/html;charset=utf-8
+Content-Length: 28661
+Server: Werkzeug/0.16.1 Python/3.8.10
+Date: Wed, 12 Jan 2022 12:43:38 GMT
+ original-response-headers Cache-Control: no-cache
+Content-Type: text/html;charset=utf-8
+Content-Length: 28661
+Set-Cookie: session_id=3324c7789124c1d0c09ef8a9c1de536860b83deb; Expires=Tue, 12-Apr-2022 12:43:38 GMT; Max-Age=7776000; HttpOnly; Path=/
+Server: Werkzeug/0.16.1 Python/3.8.10
+Date: Wed, 12 Jan 2022 12:43:38 GMT
+ ctid 5 uncompressed-len 0 net-response-time-onstart 584 net-response-time-onstop 604   o�

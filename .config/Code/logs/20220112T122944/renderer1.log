@@ -1,0 +1,16 @@
+[2022-01-12 12:29:47.214] [renderer1] [info] Starting extension host with pid 3180.
+[2022-01-12 12:29:47.216] [renderer1] [info] [LocalProcessExtensionHost]: IExtensionHostStarter.start() took 32 ms.
+[2022-01-12 12:29:48.734] [renderer1] [error] [Extension Host] (node:3180) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)
+[2022-01-12 12:46:51.115] [renderer1] [info] Starting extension host with pid 4169.
+[2022-01-12 12:46:51.118] [renderer1] [info] [LocalProcessExtensionHost]: IExtensionHostStarter.start() took 99 ms.
+[2022-01-12 12:46:52.857] [renderer1] [error] [Extension Host] (node:4169) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)
+[2022-01-12 12:46:58.621] [renderer1] [info] Enabling inspect port on extension host with pid 4169.
+[2022-01-12 12:46:59.388] [renderer1] [error] Git error
+[2022-01-12 12:47:00.394] [renderer1] [error] Git error
+[2022-01-12 12:47:04.429] [renderer1] [error] Git error
+[2022-01-12 12:47:17.501] [renderer1] [info] Starting extension host with pid 4262.
+[2022-01-12 12:47:17.502] [renderer1] [info] [LocalProcessExtensionHost]: IExtensionHostStarter.start() took 71 ms.
+[2022-01-12 12:47:19.132] [renderer1] [error] [Extension Host] (node:4262) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)

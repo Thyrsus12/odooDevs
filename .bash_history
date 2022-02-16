@@ -139,3 +139,34 @@ sudo service odoo14 start
 sudo service odoo14 status
 sudo service odoo14 restart
 exit
+ls
+cd /opt/odoo
+ls
+pwd
+cd odoo14
+LS
+ls
+cd ..
+ls
+ls -la
+rm -rf .git
+git init
+git add .
+touch .gitignore
+nano .gitignore
+commit
+git commit -am
+git commit -am 'Inital commit'
+git add remote origin https://github.com/Thyrsus12/odooDevs.git
+git remote add origin https://github.com/Thyrsus12/odooDevs.git
+git push origin master
+git branch devel1
+git checkout devel1
+cls
+clear
+ls
+cd odoo14-custom-addons
+ls
+cd lista_tareas/
+ls
+exit

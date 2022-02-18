@@ -170,3 +170,15 @@ ls
 cd lista_tareas/
 ls
 exit
+cd /opt/odoo
+ls
+cd odoo14-custom-addons/
+ls
+cd ..
+ls
+ls -a
+git push origin devel1
+git add .
+git commit -am "no se que hago"
+git push origin devel1
+exit

@@ -690,14 +690,15 @@ e.stopPropagation();e.preventDefault();var checked=$(e.target).hasClass('o_check
 var fn_attach=eventHandler.attach;eventHandler.attach=function(oLayoutInfo,options){var $editable=oLayoutInfo.editor().hasClass('note-editable')?oLayoutInfo.editor():oLayoutInfo.editor().find('.note-editable');fn_attach.call(this,oLayoutInfo,options);$editable.on("scroll",summernote_table_scroll);$editable.on("mousedown",mouseDownChecklist);};var fn_detach=eventHandler.detach;eventHandler.detach=function(oLayoutInfo,options){var $editable=oLayoutInfo.editor().hasClass('note-editable')?oLayoutInfo.editor():oLayoutInfo.editor().find('.note-editable');fn_detach.call(this,oLayoutInfo,options);$editable.off("scroll",summernote_table_scroll);$editable.off("mousedown",mouseDownChecklist);$('.o_table_handler').remove();};options.icons.image.image="file-image-o";$.summernote.lang['en-US'].image.image="File / Image";return $.summernote;});;
 
 /* <inline asset> defined in bundle 'web_editor.assets_summernote' */
-window.define=odoo.__define__;delete odoo.__define__;delete odoo.website_next_define;delete odoo.__enable_summernote__;õÇ£p–           aÞÌüCÖª       }    O^partitionKey=%28http%2Clocalhost%2C8069%29,:http://localhost:8069/web/content/271-e988012/1/web_editor.assets_summernote.js strongly-framed 1 request-method GET response-head HTTP/1.0 200 OK
-Cache-Control: no-cache
+window.define=odoo.__define__;delete odoo.__define__;delete odoo.website_next_define;delete odoo.__enable_summernote__;
+Úîy–      bKbKCøFã       }    O^partitionKey=%28http%2Clocalhost%2C8069%29,:http://localhost:8069/web/content/271-e988012/1/web_editor.assets_summernote.js strongly-framed 1 request-method GET response-head HTTP/1.0 200 OK
 Content-Type: application/javascript
-X-Content-Type-Options: nosniff
 ETag: 4b6b24e07ffe121c656bdcea4f9ab8f6878e48cd
 Content-Length: 190643
+Cache-Control: no-cache
+X-Content-Type-Options: nosniff
 Server: Werkzeug/0.16.1 Python/3.8.10
-Date: Wed, 12 Jan 2022 12:43:40 GMT
+Date: Fri, 18 Feb 2022 07:30:23 GMT
  original-response-headers Cache-Control: no-cache
 Content-Type: application/javascript
 X-Content-Type-Options: nosniff

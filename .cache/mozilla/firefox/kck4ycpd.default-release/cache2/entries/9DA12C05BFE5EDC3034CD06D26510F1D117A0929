@@ -89,7 +89,7 @@
 
                 <script id="web.layout.odooscript" type="text/javascript">
                     var odoo = {
-                        csrf_token: "fcf1a965ef5fe7c120eaa88b11ccbd5a04cb618ao1673527417",
+                        csrf_token: "aec5441e16147eb68f331d2c3d8daeb2a8580fe8o1676705416",
                         debug: "1",
                     };
                 </script>
@@ -593,16 +593,17 @@
     </body>
         </html>
     
-š÷ìÎ<Çÿ           aÞÌûCÖª       D    O^partitionKey=%28http%2Clocalhost%2C8069%29,:http://localhost:8069/ strongly-framed 1 request-method GET response-head HTTP/1.0 200 OK
+^•Š<#:Çÿ           bKCøFß       D    O^partitionKey=%28http%2Clocalhost%2C8069%29,:http://localhost:8069/ strongly-framed 1 request-method GET response-head HTTP/1.0 200 OK
 Cache-Control: no-cache
 Content-Type: text/html; charset=utf-8
 Content-Length: 374916
 Server: Werkzeug/0.16.1 Python/3.8.10
-Date: Wed, 12 Jan 2022 12:43:37 GMT
+Date: Fri, 18 Feb 2022 07:30:17 GMT
  original-response-headers Cache-Control: no-cache
 Content-Type: text/html; charset=utf-8
-Set-Cookie: session_id=3324c7789124c1d0c09ef8a9c1de536860b83deb; Expires=Tue, 12-Apr-2022 12:43:37 GMT; Max-Age=7776000; HttpOnly; Path=/
+Set-Cookie: frontend_lang=es_ES; Path=/
+Set-Cookie: session_id=3324c7789124c1d0c09ef8a9c1de536860b83deb; Expires=Thu, 19-May-2022 07:30:17 GMT; Max-Age=7776000; HttpOnly; Path=/
 Content-Length: 374916
 Server: Werkzeug/0.16.1 Python/3.8.10
-Date: Wed, 12 Jan 2022 12:43:37 GMT
- ctid 1 uncompressed-len 0 net-response-time-onstart 3200 net-response-time-onstop 3246  ¸„
+Date: Fri, 18 Feb 2022 07:30:17 GMT
+ ctid 1 uncompressed-len 0  ¸„

@@ -269,7 +269,7 @@
  .o_portal_project_rating .thumbnail{height: 240px;}.o_portal_project_rating .o_top_partner_rating_image{height: 15px;}.o_portal_project_rating .o_top_partner_image{height: 30px; width: 30px;}.o_portal_project_rating .o_top_partner_feedback{word-wrap: break-word;}.o_portal_project_rating .o_vertical_separator{border-left: 1px solid #eeeeee;}.o_portal_project_rating .o_rating_progress{margin-bottom: 10px;}.o_portal_project_rating .o_rating_count{display: inline-block; min-width: 22px;}.o_portal_project_rating .o_smiley_no_padding_left{padding-left: 0;}.o_portal_project_rating .o_smiley_no_padding_right{padding-right: 0;}.o_portal_project_rating .o_lighter_smileys{opacity: 0.4;}
 
 /* /website/static/src/scss/user_custom_rules.scss defined in bundle 'web.assets_frontend' */
-ƒs∞„1z1      bK	bK	C¯Fﬂcù|   u    O^partitionKey=%28http%2Clocalhost%2C8069%29,:http://localhost:8069/web/content/457-a9d56af/1/web.assets_frontend.css necko:classified 1 strongly-framed 1 request-method GET response-head HTTP/1.0 200 OK
+ë„„*∞„1z1      b3"b3"C˛^cù|   u    O^partitionKey=%28http%2Clocalhost%2C8069%29,:http://localhost:8069/web/content/457-a9d56af/1/web.assets_frontend.css necko:classified 1 strongly-framed 1 request-method GET response-head HTTP/1.0 200 OK
 Content-Type: text/css
 X-Content-Type-Options: nosniff
 ETag: f5458028c2a5253398b617aaedfa0f50a6f24747

@@ -244,20 +244,20 @@ odoo.define("website_event.tour",function(require){"use strict";var core=require
 
 /* /website_livechat/static/src/js/website_livechat.editor.js defined in bundle 'website.assets_editor' */
 odoo.define('website_livechat.editor',function(require){'use strict';var core=require('web.core');var wUtils=require('website.utils');var WebsiteNewMenu=require('website.newMenu');var _t=core._t;WebsiteNewMenu.include({actions:_.extend({},WebsiteNewMenu.prototype.actions||{},{new_channel:'_createNewChannel',}),_createNewChannel:function(){var self=this;return wUtils.prompt({window_title:_t("New Channel"),input:_t("Name"),}).then(function(result){var name=result.val;if(!name){return;}
-return self._rpc({model:'im_livechat.channel',method:'create_and_get_website_url',args:[[]],kwargs:{name:name,},}).then(function(url){window.location.href=url;return new Promise(function(){});});});},});});æ!‰ˆQc      bKbKCøFà       v    O^partitionKey=%28http%2Clocalhost%2C8069%29,:http://localhost:8069/web/content/441-27ef27d/1/website.assets_editor.js strongly-framed 1 request-method GET response-head HTTP/1.0 200 OK
+return self._rpc({model:'im_livechat.channel',method:'create_and_get_website_url',args:[[]],kwargs:{name:name,},}).then(function(url){window.location.href=url;return new Promise(function(){});});});},});});Ð©¨Qc      b3#b3#Cþ[œ       v    O^partitionKey=%28http%2Clocalhost%2C8069%29,:http://localhost:8069/web/content/441-27ef27d/1/website.assets_editor.js strongly-framed 1 request-method GET response-head HTTP/1.0 200 OK
 Content-Type: application/javascript
 ETag: 56fa8be0128e19f8112dabb80846c2a80593e9d5
 Content-Length: 132669
 Cache-Control: no-cache
 X-Content-Type-Options: nosniff
 Server: Werkzeug/0.16.1 Python/3.8.10
-Date: Fri, 18 Feb 2022 07:30:19 GMT
+Date: Thu, 24 Feb 2022 07:26:27 GMT
  original-response-headers Cache-Control: no-cache
 Content-Type: application/javascript
 X-Content-Type-Options: nosniff
 ETag: 56fa8be0128e19f8112dabb80846c2a80593e9d5
 Content-Length: 132669
-Set-Cookie: session_id=3324c7789124c1d0c09ef8a9c1de536860b83deb; Expires=Tue, 12-Apr-2022 12:43:39 GMT; Max-Age=7776000; HttpOnly; Path=/
+Set-Cookie: session_id=3324c7789124c1d0c09ef8a9c1de536860b83deb; Expires=Tue, 24-May-2022 12:24:02 GMT; Max-Age=7776000; HttpOnly; Path=/
 Server: Werkzeug/0.16.1 Python/3.8.10
-Date: Wed, 12 Jan 2022 12:43:39 GMT
- ctid 2 uncompressed-len 0 net-response-time-onstart 12 net-response-time-onstop 13  =
+Date: Wed, 23 Feb 2022 12:24:02 GMT
+ ctid 2 uncompressed-len 0 net-response-time-onstart 26 net-response-time-onstop 29 necko:classified 1  =

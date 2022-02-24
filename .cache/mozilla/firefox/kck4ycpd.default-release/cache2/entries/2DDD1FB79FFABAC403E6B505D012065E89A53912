@@ -727,21 +727,21 @@ div.oe_demo:hover span.oe_demo_play {
   margin-top: -32px;
   position: relative;
 }
-…^+À[      aÞÆ¦aÞÆ¦CÖ¥·       g    O^partitionKey=%28http%2Clocalhost%2C8069%29,:http://localhost:8069/base/static/src/css/description.css necko:classified 1 strongly-framed 1 request-method GET response-head HTTP/1.0 200 OK
+ñª!bÀ[           bXïCøP       g    O^partitionKey=%28http%2Clocalhost%2C8069%29,:http://localhost:8069/base/static/src/css/description.css strongly-framed 1 request-method GET response-head HTTP/1.0 200 OK
 Cache-Control: no-cache
-Date: Wed, 12 Jan 2022 12:16:38 GMT
+Date: Fri, 18 Feb 2022 08:29:35 GMT
 Etag: "wzsdm-1632240843-15907-827655708"
-Expires: Wed, 19 Jan 2022 12:16:38 GMT
+Expires: Fri, 25 Feb 2022 08:29:35 GMT
 Content-Type: text/css
 Content-Length: 15907
 Last-Modified: Tue, 21 Sep 2021 16:14:03 GMT
 Server: Werkzeug/0.16.1 Python/3.8.10
  original-response-headers Cache-Control: no-cache
-Date: Wed, 12 Jan 2022 12:16:38 GMT
+Date: Fri, 18 Feb 2022 08:29:35 GMT
 Etag: "wzsdm-1632240843-15907-827655708"
-Expires: Wed, 19 Jan 2022 12:16:38 GMT
+Expires: Fri, 25 Feb 2022 08:29:35 GMT
 Content-Type: text/css
 Content-Length: 15907
 Last-Modified: Tue, 21 Sep 2021 16:14:03 GMT
 Server: Werkzeug/0.16.1 Python/3.8.10
- ctid 5 uncompressed-len 0 net-response-time-onstart 37 net-response-time-onstop 38   >#
+ ctid 5 uncompressed-len 0 net-response-time-onstart 48 net-response-time-onstop 57   >#

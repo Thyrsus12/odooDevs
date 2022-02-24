@@ -1,28 +1,31 @@
 <odoo>
   <data>
-    <!-- explicit list view definition -->
-<!--
+    <!-- explicit list view definition CAMPOS QUE VA A TENER EL FORMULARIO-->
+
     <record model="ir.ui.view" id="simulacroexamen.list">
       <field name="name">simulacroexamen list</field>
       <field name="model">simulacroexamen.simulacroexamen</field>
       <field name="arch" type="xml">
         <tree>
-          <field name="name"/>
+          <field name="avatar" widget="image" class="oe_avatar"/>
           <field name="value"/>
           <field name="value2"/>
+          <field name="prioridad"/>
+          <field name="urgente"/>
+          <field name="fecha"/>
         </tree>
       </field>
     </record>
--->
 
-    <!-- actions opening views on models -->
-<!--
+
+    <!-- actions opening views on models ACCION PARA REFRESCAR LA VENTANA-->
+
     <record model="ir.actions.act_window" id="simulacroexamen.action_window">
       <field name="name">simulacroexamen window</field>
       <field name="res_model">simulacroexamen.simulacroexamen</field>
       <field name="view_mode">tree,form</field>
     </record>
--->
+
 
     <!-- server action to the one above -->
 <!--
@@ -40,21 +43,23 @@
     </record>
 -->
 
-    <!-- Top menu item -->
-<!--
+    <!-- Top menu item MENU PRINCIPAL ARRIBA IZQUIERDA-->
+
     <menuitem name="simulacroexamen" id="simulacroexamen.menu_root"/>
--->
-    <!-- menu categories -->
-<!--
-    <menuitem name="Menu 1" id="simulacroexamen.menu_1" parent="simulacroexamen.menu_root"/>
+
+    <!-- menu categories MENU DE ARRIBA-->
+
+    <menuitem name="Menu 1" id="simulacroexamen.menu_1" parent="simulacroexamen.menu_root" action="simulacroexamen.action_window"/>
     <menuitem name="Menu 2" id="simulacroexamen.menu_2" parent="simulacroexamen.menu_root"/>
--->
-    <!-- actions -->
-<!--
-    <menuitem name="List" id="simulacroexamen.menu_1_list" parent="simulacroexamen.menu_1"
+    <menuitem name="Menu 3" id="simulacroexamen.menu_3" parent="simulacroexamen.menu_root" action="simulacroexamen.action_window"/>
+
+
+    <!-- actions SUBMENUS -->
+      <!-- Submenus del menu2 de arriba -->
+    <menuitem name="Submenu1" id="simulacroexamen.menu_21" parent="simulacroexamen.menu_2"
               action="simulacroexamen.action_window"/>
-    <menuitem name="Server to list" id="simulacroexamen" parent="simulacroexamen.menu_2"
-              action="simulacroexamen.action_server"/>
--->
+    <menuitem name="Submenu2" id="simulacroexamen.menu_22" parent="simulacroexamen.menu_2"
+              action="simulacroexamen.action_window"/>
+
   </data>
 </odoo>

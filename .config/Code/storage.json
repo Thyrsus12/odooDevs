@@ -23,6 +23,10 @@
                         "label": "New &&Window"
                     },
                     {
+                        "id": "welcome.showNewFileEntries",
+                        "label": "New File..."
+                    },
+                    {
                         "id": "vscode.menubar.separator"
                     },
                     {
@@ -250,13 +254,11 @@
                     },
                     {
                         "id": "actions.find",
-                        "label": "&&Find",
-                        "enabled": false
+                        "label": "&&Find"
                     },
                     {
                         "id": "editor.action.startFindReplaceAction",
-                        "label": "&&Replace",
-                        "enabled": false
+                        "label": "&&Replace"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -478,13 +480,6 @@
                                 {
                                     "id": "workbench.action.splitEditorRight",
                                     "label": "Split &&Right"
-                                },
-                                {
-                                    "id": "vscode.menubar.separator"
-                                },
-                                {
-                                    "id": "workbench.action.splitEditorInGroup",
-                                    "label": "Split in &&Group"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -1076,6 +1071,10 @@
                 "label": "Ctrl+Shift+N",
                 "userSettingsLabel": "ctrl+shift+n"
             },
+            "welcome.showNewFileEntries": {
+                "label": "Ctrl+Alt+Super+N",
+                "userSettingsLabel": "ctrl+alt+meta+n"
+            },
             "workbench.action.files.openFile": {
                 "label": "Ctrl+O",
                 "userSettingsLabel": "ctrl+o"
@@ -1523,7 +1522,7 @@
                 "mode": 0,
                 "x": 448,
                 "y": 141,
-                "width": 1024,
+                "width": 886,
                 "height": 768
             }
         },

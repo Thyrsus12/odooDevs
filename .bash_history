@@ -182,3 +182,67 @@ git add .
 git commit -am "no se que hago"
 git push origin devel1
 exit
+ls -a
+pwd
+clear
+git status
+git add .
+git commit -am "muchas cositas que subir antes del simulacro de examen"
+git status
+git add .
+git commit -am "otra vez"
+git status
+git branch simulacroexamen
+git cheackout simulacroexamen
+git checkout simulacroexamen
+git branch
+odoo14/odoo-bin scaffold simulacroexamen odoo14-custom-addons/
+cd odoo14
+ls
+cd ..
+cd odoo14-custom-addons/
+ls
+cd simulacroexamen/
+ls
+cd ..
+cd
+pwd
+git add .
+git commit -am "modulo simulacroexamen creado"
+git stutus
+git status
+odoorestart
+pwd
+cd
+odoorestart
+odoo servirce restart
+odoo service restart
+cd nano .bashrc
+nano .bashrc
+sudo nano .bashrc
+cd odoo14-custom-addons/simulacroexamen/
+mkdir static
+mkdir static/description
+odoorestart
+c
+nano .bashrc
+cd
+odoorestart
+nano .bashrc
+sudo service odoo14 restart
+exit
+plsql -d db1
+psql -d db1
+odoorestart
+odoomup
+odoorestart
+odoomup
+odoorestart
+odoomup
+odoorestart
+odoomup
+odoorestart
+odoomup
+odoorestart
+odoomup
+exit

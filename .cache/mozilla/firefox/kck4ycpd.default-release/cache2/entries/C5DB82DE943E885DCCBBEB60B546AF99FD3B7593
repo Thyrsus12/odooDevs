@@ -275,20 +275,20 @@ $urlInput.val(urlInputValue+anchorValue);},_onURLInput:function(){this._super.ap
 odoo.define('website.widgets.media',function(require){'use strict';const{ImageWidget}=require('wysiwyg.widgets.media');ImageWidget.include({_getAttachmentsDomain(){const domain=this._super(...arguments);domain.push('|',['url','=',false],'!',['url','=like','/web/image/website.%']);domain.push(['key','=',false]);return domain;}});});;
 
 /* /website_blog/static/src/snippets/s_latest_posts/options.js defined in bundle 'website.assets_wysiwyg' */
-odoo.define('website_blog.s_latest_posts_editor',function(require){'use strict';var sOptions=require('web_editor.snippets.options');var wUtils=require('website.utils');sOptions.registry.js_get_posts_selectBlog=sOptions.Class.extend({_renderCustomXML:function(uiFragment){return this._rpc({model:'blog.blog',method:'search_read',args:[wUtils.websiteDomain(this),['name']],}).then(blogs=>{const menuEl=uiFragment.querySelector('[name="blog_selection"]');for(const blog of blogs){const el=document.createElement('we-button');el.dataset.selectDataAttribute=blog.id;el.textContent=blog.name;menuEl.appendChild(el);}});},});});ç@‘¿           bKC¯FÂ       w    O^partitionKey=%28http%2Clocalhost%2C8069%29,:http://localhost:8069/web/content/360-c15da00/1/website.assets_wysiwyg.js strongly-framed 1 request-method GET response-head HTTP/1.0 200 OK
-Cache-Control: no-cache
+odoo.define('website_blog.s_latest_posts_editor',function(require){'use strict';var sOptions=require('web_editor.snippets.options');var wUtils=require('website.utils');sOptions.registry.js_get_posts_selectBlog=sOptions.Class.extend({_renderCustomXML:function(uiFragment){return this._rpc({model:'blog.blog',method:'search_read',args:[wUtils.websiteDomain(this),['name']],}).then(blogs=>{const menuEl=uiFragment.querySelector('[name="blog_selection"]');for(const blog of blogs){const el=document.createElement('we-button');el.dataset.selectDataAttribute=blog.id;el.textContent=blog.name;menuEl.appendChild(el);}});},});});!‚ÖP‘¿      b3#b3#C˛[ù       w    O^partitionKey=%28http%2Clocalhost%2C8069%29,:http://localhost:8069/web/content/360-c15da00/1/website.assets_wysiwyg.js strongly-framed 1 request-method GET response-head HTTP/1.0 200 OK
 Content-Type: application/javascript
-X-Content-Type-Options: nosniff
 ETag: e9f5ce683b7178290e7e522e3edc1509abba596a
 Content-Length: 118773
+Cache-Control: no-cache
+X-Content-Type-Options: nosniff
 Server: Werkzeug/0.16.1 Python/3.8.10
-Date: Fri, 18 Feb 2022 07:30:26 GMT
+Date: Thu, 24 Feb 2022 07:26:27 GMT
  original-response-headers Cache-Control: no-cache
 Content-Type: application/javascript
 X-Content-Type-Options: nosniff
 ETag: e9f5ce683b7178290e7e522e3edc1509abba596a
 Content-Length: 118773
-Set-Cookie: session_id=3324c7789124c1d0c09ef8a9c1de536860b83deb; Expires=Thu, 19-May-2022 07:30:26 GMT; Max-Age=7776000; HttpOnly; Path=/
+Set-Cookie: session_id=3324c7789124c1d0c09ef8a9c1de536860b83deb; Expires=Tue, 24-May-2022 12:24:03 GMT; Max-Age=7776000; HttpOnly; Path=/
 Server: Werkzeug/0.16.1 Python/3.8.10
-Date: Fri, 18 Feb 2022 07:30:26 GMT
- ctid 2 uncompressed-len 0 net-response-time-onstart 12 net-response-time-onstop 14  œı
+Date: Wed, 23 Feb 2022 12:24:03 GMT
+ ctid 2 uncompressed-len 0 net-response-time-onstart 14 net-response-time-onstop 16  œı

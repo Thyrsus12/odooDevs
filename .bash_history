@@ -246,3 +246,7 @@ odoomup
 odoorestart
 odoomup
 exit
+psqlo -d db1
+psql -d db1
+git log
+exit

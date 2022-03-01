@@ -97,7 +97,6 @@ user_pref("extensions.webextensions.uuids", "{\"doh-rollout@mozilla.org\":\"0e54
 user_pref("fission.experiment.max-origins.last-disqualified", 0);
 user_pref("fission.experiment.max-origins.last-qualified", 1639729297);
 user_pref("fission.experiment.max-origins.qualified", true);
-user_pref("fission.experiment.startupEnrollmentStatus", 4);
 user_pref("gfx.blacklist.layers.opengl", 4);
 user_pref("gfx.blacklist.layers.opengl.failureid", "FEATURE_FAILURE_SOFTWARE_GL");
 user_pref("idle.lastDailyNotification", 1645687764);
@@ -113,7 +112,7 @@ user_pref("pdfjs.migrationVersion", 2);
 user_pref("places.database.lastMaintenance", 1645687764);
 user_pref("privacy.purge_trackers.date_in_cookie_database", "0");
 user_pref("privacy.purge_trackers.last_purge", "1645687764372");
-user_pref("privacy.sanitize.pending", "[{\"id\":\"newtab-container\",\"itemsToClear\":[],\"options\":{}}]");
+user_pref("privacy.sanitize.pending", "[]");
 user_pref("security.remote_settings.crlite_filters.checked", 1645619538);
 user_pref("security.remote_settings.intermediates.checked", 1645619538);
 user_pref("security.sandbox.content.tempDirSuffix", "699b91b7-3b0f-4ecf-b5b2-77b30be17869");

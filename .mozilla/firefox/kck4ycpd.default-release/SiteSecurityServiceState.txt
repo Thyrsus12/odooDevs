@@ -8,7 +8,7 @@ improving.duckduckgo.com^partitionKey=%28http%2Cduckduckgo.com%29:HSTS	0	19041	1
 alive.github.com^partitionKey=%28http%2Cgithub.com%29:HSTS	0	19039	1676549930504,1,0,2
 vscode-auth.github.com^partitionKey=%28http%2Cgithub.com%29:HSTS	1	19047	1661239853468,1,1,2
 www.odoo.com^partitionKey=%28http%2Codoo.com%29:HSTS	0	19004	1673527729538,1,0,2
-contile.services.mozilla.com:HSTS	6	19047	1677223572875,1,0,2
+contile.services.mozilla.com:HSTS	6	19047	1677223872665,1,0,2
 www.google.com^partitionKey=%28http%2Cgoogle.com%29:HSTS	0	19004	1673526365948,1,0,2
 duckduckgo.com^partitionKey=%28http%2Cduckduckgo.com%29:HSTS	1	19041	1676708435411,1,0,2
 github.com^partitionKey=%28http%2Cgithub.com%29:HSTS	1	19047	1677223853151,1,1,2

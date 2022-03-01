@@ -244,14 +244,14 @@ odoo.define("website_event.tour",function(require){"use strict";var core=require
 
 /* /website_livechat/static/src/js/website_livechat.editor.js defined in bundle 'website.assets_editor' */
 odoo.define('website_livechat.editor',function(require){'use strict';var core=require('web.core');var wUtils=require('website.utils');var WebsiteNewMenu=require('website.newMenu');var _t=core._t;WebsiteNewMenu.include({actions:_.extend({},WebsiteNewMenu.prototype.actions||{},{new_channel:'_createNewChannel',}),_createNewChannel:function(){var self=this;return wUtils.prompt({window_title:_t("New Channel"),input:_t("Name"),}).then(function(result){var name=result.val;if(!name){return;}
-return self._rpc({model:'im_livechat.channel',method:'create_and_get_website_url',args:[[]],kwargs:{name:name,},}).then(function(url){window.location.href=url;return new Promise(function(){});});});},});});Ð©¨Qc      b3#b3#Cþ[œ       v    O^partitionKey=%28http%2Clocalhost%2C8069%29,:http://localhost:8069/web/content/441-27ef27d/1/website.assets_editor.js strongly-framed 1 request-method GET response-head HTTP/1.0 200 OK
+return self._rpc({model:'im_livechat.channel',method:'create_and_get_website_url',args:[[]],kwargs:{name:name,},}).then(function(url){window.location.href=url;return new Promise(function(){});});});},});});ôAnQc      bùdbùdD‚¾       v    O^partitionKey=%28http%2Clocalhost%2C8069%29,:http://localhost:8069/web/content/441-27ef27d/1/website.assets_editor.js strongly-framed 1 request-method GET response-head HTTP/1.0 200 OK
 Content-Type: application/javascript
 ETag: 56fa8be0128e19f8112dabb80846c2a80593e9d5
 Content-Length: 132669
+Date: Tue, 01 Mar 2022 10:45:56 GMT
 Cache-Control: no-cache
 X-Content-Type-Options: nosniff
 Server: Werkzeug/0.16.1 Python/3.8.10
-Date: Thu, 24 Feb 2022 07:26:27 GMT
  original-response-headers Cache-Control: no-cache
 Content-Type: application/javascript
 X-Content-Type-Options: nosniff

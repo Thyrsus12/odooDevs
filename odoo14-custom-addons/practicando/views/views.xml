@@ -1,7 +1,7 @@
 <odoo>
   <data>
     <!-- explicit list view definition -->
-<!--
+
     <record model="ir.ui.view" id="practicando.list">
       <field name="name">practicando list</field>
       <field name="model">practicando.practicando</field>
@@ -13,16 +13,16 @@
         </tree>
       </field>
     </record>
--->
+
 
     <!-- actions opening views on models -->
-<!--
+
     <record model="ir.actions.act_window" id="practicando.action_window">
       <field name="name">practicando window</field>
       <field name="res_model">practicando.practicando</field>
       <field name="view_mode">tree,form</field>
     </record>
--->
+
 
     <!-- server action to the one above -->
 <!--
@@ -41,20 +41,20 @@
 -->
 
     <!-- Top menu item -->
-<!--
+
     <menuitem name="practicando" id="practicando.menu_root"/>
--->
+
     <!-- menu categories -->
-<!--
-    <menuitem name="Menu 1" id="practicando.menu_1" parent="practicando.menu_root"/>
+
+    <menuitem name="Menu 1" id="practicando.menu_1" parent="practicando.menu_root" action="practicando.action_window"/>
     <menuitem name="Menu 2" id="practicando.menu_2" parent="practicando.menu_root"/>
--->
+
     <!-- actions -->
-<!--
-    <menuitem name="List" id="practicando.menu_1_list" parent="practicando.menu_1"
+
+    <menuitem name="List" id="practicando.menu_1_list" parent="practicando.menu_2"
               action="practicando.action_window"/>
     <menuitem name="Server to list" id="practicando" parent="practicando.menu_2"
-              action="practicando.action_server"/>
--->
+              action="practicando.action_window"/>
+
   </data>
 </odoo>

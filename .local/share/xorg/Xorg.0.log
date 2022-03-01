@@ -363,3 +363,7 @@ X Protocol Version 11, Revision 0
 [    95.449] (II) config/udev: Adding input device ImExPS/2 Generic Explorer Mouse (/dev/input/mouse0)
 [    95.449] (II) No input driver specified, ignoring this device.
 [    95.449] (II) This device may have been added with another device file.
+[   675.076] (EE) No surface to present from.
+[   772.471] (EE) No surface to present from.
+[   788.174] (EE) No surface to present from.
+[  1209.017] (EE) No surface to present from.
